@@ -1,7 +1,7 @@
-
 FreeNAS 11 WebUI
 ================
-[![Build Status](https://builds.ixsystems.com/jenkins/job/FreeNAS%20-%20WebUI%20Pipeline/job/Github%20master%20/badge/icon)](https://builds.ixsystems.com/jenkins/job/FreeNAS%20-%20WebUI%20Pipeline/job/Github%20master%20/)
+[![Build Status](https://builds.ixsystems.com/jenkins/job/FreeNAS%20-%20WebUI%20Pipeline/job/Github%20master%20/badge/icon)](https://builds.ixsystems.com/jenkins/job/FreeNAS%20-%20WebUI%20Pipeline/job/Github%20master%20/)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fwebui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fwebui?ref=badge_shield)
+
 
 
 This is the project for the new angular.io WebUI for FreeNAS 11. It is meant to coexist with current FreeNAS 11 Django/Dojo WebUI.
@@ -81,3 +81,7 @@ These can be edited with any PO editor.
 
 Stock images used on the dashboard UI are courtesy of Pixabay.com and are subject to the Simplified Pixabay License. 
 Full license details can be found at https://pixabay.com/service/license/.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fwebui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fwebui?ref=badge_large)
